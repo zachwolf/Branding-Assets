@@ -1,0 +1,7 @@
+Identity hex color: 
+
+#E05200
+
+Pantone:
+
+166U
