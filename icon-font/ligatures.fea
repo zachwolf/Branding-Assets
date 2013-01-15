@@ -1,0 +1,10 @@
+languagesystem latn dflt;
+
+feature liga {
+lookup liga14 {
+    sub w o l f by wolf;
+    sub t w i t t e r by twitter;
+    sub g i t h u b by github;
+    sub d r i b b b l e by dribbble;
+} liga14;
+} liga;

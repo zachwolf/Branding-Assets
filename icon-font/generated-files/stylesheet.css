@@ -1,0 +1,11 @@
+
+@font-face {
+  font-family: 'Iconset-Regular';
+  src: url('Iconset-Regular.eot'); /* IE9 Compat Modes */
+  src: url('Iconset-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Iconset-Regular.woff') format('woff'), /* Modern Browsers */
+       url('Iconset-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Iconset-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+  font-weight: normal;
+  font-style: normal;
+}
